@@ -38,4 +38,3 @@ Please prepare to give a short (5-10 minutes) presentation which will include:
 - Any other insights gleaned from the data that could be used to inform an imbalance forecast (optional)
 
 You are welcome to include slides as part of your presentation, but please keep these to no more than 2-3.
-![image](https://github.com/user-attachments/assets/e52f52dc-471d-4d00-aade-45b58b40798e)
